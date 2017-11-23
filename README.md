@@ -20,6 +20,8 @@ From the play state,
 
 + Use the UP, DOWN, LEFT and RIGHT, arrow keys to move your green box around the stage.
 + Press SPACE to pause the game
++ Hold SHIFT to activate speed boost - but beware it is limited. If your boost reaches zero,
+you will have to wait a while before it can be used again.
 
 When paused, press SPACE to resume, or ESCAPE to quit to the title state
 
