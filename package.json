@@ -1,0 +1,15 @@
+{
+  "name": "gp-course-example-game-box-avoider",
+  "version": "1.0.0",
+  "description": "A small example game project for my game programming course. Avoid the red boxes as long as possible to obtain the highest score.",
+  "main": "main.js",
+  "scripts": {
+    "start": "http-server -p 8080"
+  },
+  "keywords": [],
+  "author": "Richard Marks <ccpsceo@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
